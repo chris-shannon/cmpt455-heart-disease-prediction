@@ -23,3 +23,9 @@ env/
 # Data you can regenerate
 data/processed/
 data/raw/*.csv
+.venv/
+
+# Claude Code (local only)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
